@@ -1,0 +1,105 @@
+#first{
+    margin:0px;
+    text-align:center;
+}
+.pic{
+ width: 350px; 
+    margin-bottom: 50px;
+    border-radius: 60%;
+}
+.hi{
+ background:linear-gradient(#f5e5a6 0%,#deab02 100%)
+}
+.secondheader{
+text-align:center;
+    margin:0px;
+}
+h1 {
+    font-size: 40;
+    line-height:1.2;
+    font-family:sans-serif;
+    text-align:center;
+}
+.introtext{
+    font-size:40;
+}
+#color{
+    background:linear-gradient(#8ff2d6 0%,#0a63a3 100%)
+}
+.aqi{
+    width:450px;
+    margin-bottom:50px;
+    border-radius: 20%;
+}
+#aqi_pic{
+    text-align:center;
+}
+#pm{
+    background:linear-gradient(#0a63a3 0%,#fae4e1 100%)
+}
+#ozone{
+background:linear-gradient(#fae4e1 0%, #c98506 100%)
+}
+#nitrogen{
+    background-color:#c98506;
+}
+#study{
+padding-top: 50px;
+    background-color:lightgoldenrodyellow;
+text-align: center;
+}
+.yr_graph{
+    width: 800px;
+    height:800px;
+}
+#beginz{
+    text-align:center;
+    background-color:chocolate;
+    padding-bottom: 30px;
+}
+.september{
+    text-align:center;
+}
+#september-graphs{
+    background:linear-gradient(#fce56f 0%, #b59805 100%)
+}
+#sep-pic{
+    text-align:center;
+}
+
+#september-graphs{
+    padding-bottom:30px;
+}
+#oct{
+    padding-bottom:30px;
+    background:linear-gradient(#b59805 0%, #a65107 100%)
+    
+}
+#oct-baw-plot{
+    text-align:center;
+}
+#sep-day{
+    background:linear-gradient(#a65107 0%, #b00555 100%)
+}
+#sep-graph{
+    text-align:center;
+    padding-bottom:30px;
+}
+#oct-day{
+    background:linear-gradient(#b00555 0%, #05adb0 100%)
+}
+#oct-graph{
+    text-align:center;
+    padding-bottom:30px;
+}
+#y{
+    background:linear-gradient(#05adb0 0%, #6ea305 100%)
+}
+#yAnswers{
+    text-align:center;
+    padding-bottom:30px;
+}
+#bye{
+    text-align:center;
+    background-color:sandybrown;
+}
