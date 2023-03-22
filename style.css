@@ -103,3 +103,15 @@ text-align: center;
     text-align:center;
     background-color:sandybrown;
 }
+.article:hover{
+    color:blanchedalmond;
+}
+html{
+    scroll-behavior: smooth;
+}
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
